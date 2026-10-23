@@ -116,7 +116,7 @@ a.ext_link:hover {
 .hero h1,.project-title,.section-title {
   font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;
   font-weight:300;
-  letter-spacing:.025em
+  letter-spacing:-0.04em;
 }
 
 .hero h1 {
